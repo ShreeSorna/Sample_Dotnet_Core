@@ -1,0 +1,9 @@
+c:\users\sornalatha.natarajan\documents\visual studio 2017\Projects\Sample_Dotnet_Core\Sample_Dotnet_Core\bin\Debug\netcoreapp1.1\Sample_Dotnet_Core.deps.json
+c:\users\sornalatha.natarajan\documents\visual studio 2017\Projects\Sample_Dotnet_Core\Sample_Dotnet_Core\bin\Debug\netcoreapp1.1\Sample_Dotnet_Core.runtimeconfig.json
+c:\users\sornalatha.natarajan\documents\visual studio 2017\Projects\Sample_Dotnet_Core\Sample_Dotnet_Core\bin\Debug\netcoreapp1.1\Sample_Dotnet_Core.runtimeconfig.dev.json
+c:\users\sornalatha.natarajan\documents\visual studio 2017\Projects\Sample_Dotnet_Core\Sample_Dotnet_Core\bin\Debug\netcoreapp1.1\Sample_Dotnet_Core.dll
+c:\users\sornalatha.natarajan\documents\visual studio 2017\Projects\Sample_Dotnet_Core\Sample_Dotnet_Core\bin\Debug\netcoreapp1.1\Sample_Dotnet_Core.pdb
+c:\users\sornalatha.natarajan\documents\visual studio 2017\Projects\Sample_Dotnet_Core\Sample_Dotnet_Core\obj\Debug\netcoreapp1.1\Sample_Dotnet_Core.csprojResolveAssemblyReference.cache
+c:\users\sornalatha.natarajan\documents\visual studio 2017\Projects\Sample_Dotnet_Core\Sample_Dotnet_Core\obj\Debug\netcoreapp1.1\Sample_Dotnet_Core.AssemblyInfo.cs
+c:\users\sornalatha.natarajan\documents\visual studio 2017\Projects\Sample_Dotnet_Core\Sample_Dotnet_Core\obj\Debug\netcoreapp1.1\Sample_Dotnet_Core.dll
+c:\users\sornalatha.natarajan\documents\visual studio 2017\Projects\Sample_Dotnet_Core\Sample_Dotnet_Core\obj\Debug\netcoreapp1.1\Sample_Dotnet_Core.pdb
